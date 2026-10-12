@@ -37,7 +37,7 @@
 ### 🎯 Current Focus
 - 🖥️ Crafting clean, modern desktop user interfaces with **CTK**.
 - ⌨️ Writing fast, efficient **CLI** scripts to automate everyday tasks.
-- 📚 Solidifying and Leaning core Python foundations project by project.
+- 📚 Solidifying and learning core Python foundations project by project.
 
 ---
 
