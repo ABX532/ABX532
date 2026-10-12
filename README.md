@@ -1,7 +1,7 @@
 # Hi there, I'm ABX! 👋
 
 <p align="right">
-  <img src="https://hitscounter.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABX532&count_bg=%238A2BE2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true" alt="Profile views" />
+  <img src="https://views.igorkowalczyk.dev/api/badge/ABX532?color=8A2BE2&style=flat" alt="Profile views" />
 </p>
 
 - 🐍 Casual Python developer — not a beginner anymore, but not a pro either. Right in the middle, building things that solve problems or just look cool.
