@@ -1,8 +1,6 @@
 # Hi there, I'm ABX! 👋
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ABX532&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=ABX532&color=blueviolet&style=flat-square)
 
 - 🐍 Casual Python developer — not a beginner anymore, but not a pro either. Right in the middle, building things that solve problems or just look cool.
 - 💻 Currently diving into modern desktop apps with **CTK (CustomTkinter)** and scripting handy **CLI** tools.
